@@ -5,7 +5,7 @@ This project was built during the **Grab Bootcamp 2025**. I contributed to the *
 ## 🔧 My Contributions
 - Collected and integrated data from multiple sources
 - Built a data pipeline from data collection to data lake and then to the application database
-= Designed and optimized the database schema
+- Designed and optimized the database schema
 - Resolved data quality issues such as duplication and inconsistency
 
 
