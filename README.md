@@ -1,4 +1,4 @@
-# 🍽️ Food Searcher – Grab Bootcamp 2025
+# 🍽️ EateryFinder – Grab Bootcamp 2025
 
 This project was built during the **Grab Bootcamp 2025**. I contributed to the **backend development** of the application.
 
